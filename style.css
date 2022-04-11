@@ -1,0 +1,30 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  background-color: #659dbd !important;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 0%;
+  font-family: "Courier New", Courier, monospace;
+  padding-top: 20px;
+  color: aliceblue;
+}
+
+.carousel_main {
+  align-items: center;
+  justify-content: space-around;
+  display: flex;
+  width: 100%;
+  margin-top: 6%;
+}
+
+.carousel_button {
+  border: 0;
+  color: aliceblue;
+  cursor: pointer;
+  font-size: 1.5rem;
+  font-weight: bold;
+  background-color: unset;
+}
